@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam Shelton</title>
+    <link>/</link>
+    <description>Recent content on Adam Shelton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 4999 21:48:51 -0700</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 05 May 4999 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am an aspiring data scientist, currently pursuing a Master&amp;rsquo;s in Computational Social Science at the University of Chicago. My interests are grounded in the social forces that separate us, and how these rifts in society can contribute to inequality. Currently I am focusing on dimensions such as race and socioeconomic class and their influence on geospatial segregation. I have a BA in Sociology from the University of Massachusetts - Amherst, where most notably, I studied the growing religious divide as it pertains to college students.</description>
+    </item>
+    
+  </channel>
+</rss>

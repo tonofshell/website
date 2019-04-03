@@ -1,0 +1,16 @@
+name = "Github Developer Page"
+license = "MIT"
+licenselink = "https://github.com/tonofshell/github-dev-page/"
+description = "An easy to use landing page theme for github hosted project."
+homepage = "https://github.com/tonofshell/github-dev-page/"
+tags = ["company", "products", "landing page", "opensource"]
+features = ["github", "images" ]
+min_version= 0.1
+
+[author]
+     name = "Adam Shelton"
+
+[original]
+    author =  "Adam Shelton"
+    homepage = "https://github.com/tonofshell/github-dev-page/"
+    repo = "https://github.com/tonofshell/github-dev-page/"

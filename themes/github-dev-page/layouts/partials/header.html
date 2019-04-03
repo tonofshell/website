@@ -1,0 +1,42 @@
+<section id="intro">
+	<!-- Header -->
+	<div class="intro-header">
+
+		<div class="container header-container">
+
+			<div class="row">
+				<div class="intro-wrapper">
+					<div class="col-lg-2"></div>
+					<div class="intro-image-out col-md-4 col-lg-3">
+
+						<div class="intro-center">
+							<div class="intro-image"></div>
+						</div>
+						<!--<img src={{.Site.Params.logo.url}} height={{.Site.Params.logo.height}} height={{.Site.Params.logo.width}} alt={{.Site.Params.logo.alt}} class=".img-circle .img-responsive">-->
+					</div>
+					<div class="intro-message col-md-8 col-lg-5">
+						<div class="intro-center">
+							<div>
+								<h1>{{ .Site.Title }}</h1>
+								<h3>{{ .Site.Params.description }}</h3>
+								<!--
+                                                            {{ if (isset .Site.Params "github_project_name") }}
+                                                            {{ $user := .Site.Params.github_user_name }}
+                                                            {{ $repo := .Site.Params.github_project_name }}
+
+                                                            <iframe class="github-btn" src="https://ghbtns.com/github-btn.html?user={{ $user }}&repo={{ $repo  }}&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+                                                            {{ end }}-->
+
+								<hr class="intro-divider">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+		<!-- /.container -->
+
+	</div>
+	<!-- /.intro-header -->
+</section>
