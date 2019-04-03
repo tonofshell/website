@@ -1,3 +1,3 @@
 # Website Code
 
-This has the code for my personal website hosted using a [GitHub Pages repo](http://github.com/tonofshell/tonofshell.github.io) at [tonofshell.me](http://tonofshell.me). It is built using `blogdown` in R, and an [altered Hugo theme](https://github.com/tonofshell/github-dev-page) based off the [Github Landing Page theme](https://github.com/nsomar/github-project-landing-page) by [nsomar](https://github.com/nsomar/).
+This repo contains the code for my personal website hosted using a [GitHub Pages repo](http://github.com/tonofshell/tonofshell.github.io) at [tonofshell.me](http://tonofshell.me). It is built using `blogdown` in R, and an [altered Hugo theme](https://github.com/tonofshell/github-dev-page) based off the [Github Landing Page theme](https://github.com/nsomar/github-project-landing-page) by [nsomar](https://github.com/nsomar/).
