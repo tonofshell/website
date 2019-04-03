@@ -1,1 +1,5 @@
 public/
+exampleSite/
+node_modules/
+.idea/
+package-lock.json

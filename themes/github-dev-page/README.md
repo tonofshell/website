@@ -1,40 +1,21 @@
-# Github Developer Page
+# GitHub Developer Page
 
-Github Developer Page is a theme for [Hugo](http://gohugo.io) to create landing pages for developers to showcase their work on GitHub. This theme is based on [Swiftline](https://github.com/nsomar/Swiftline)
+GitHub Developer Page is a theme for [Hugo](http://gohugo.io) to create personal landing pages for developers to showcase their work. This theme is based on [GitHub Project Landing Page](https://github.com/nsomar/github-project-landing-page), which this theme is forked from.
 
 # Demo
-A demo can be find here [Swiftline](http://swiftline.github.io)
+A demo can be found on [my personal webpage](http://tonofshell.me)
+<!--- # Screenshot
+ ![screenshot]() --->
+# Customization
 
-# Screenshot
-![screenshot](https://raw.githubusercontent.com/nsomar/github-project-landing-page/master/images/screenshot.png)
-
-# Costumization
-Check [config.toml](https://github.com/nsomar/github-project-landing-page/blob/master/exampleSite/config.toml) for available configuration.
-Below is a description for each of them.
-
-Project description appears after project name
+Include your tagline and links to your GitHub, LinkedIn, and some form of direct contact like Facebook Messenger, WhatsApp, or email (if you really like getting spam).
 ```
-    description = "Amazing project."
-```
-
-`author_url` a link of the project author.
-`project_url` link to project url
-`project_documentation` link to project documentation
+    description = "An amazing person doing amazing stuff"
+    github = "https://github.com/tonofshell"
+    linkedin = "http://linkedin.com/in/tonofshell"
+    contact = "http://m.me/tonofshell"
 
 ```
-    author_url = "http://nsomar.com"
-    project_url = "http://github.com/swiftline/swiftline"
-    project_documentation = "http://swiftline.github.io/docs"
-
-```
-
-`github_user_name` github author account name
-`github_project_name` github project name
-```
-    github_project_name = "swiftline"
-    github_user_name = "swiftline"
-```
-
 Theme colors
 ```
     first_color="#f8f8f8"
